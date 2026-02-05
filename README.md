@@ -14,6 +14,9 @@ so easy 你只需要下载仓库内的MOFJ.exe来运行就行了 但是这个程
 
 ## 界面说明
 该界面采用的是Material Design 2 导航栏 + win11部分元素 + MAC按钮 成分会复杂一点cwc。。。 使用的是EXUI来制作界面滴
+程序界面如下 ↓ ↓ ↓
+![image](https://raw.githubusercontent.com/haolinawa/Memory-Optimization-For-Java/refs/heads/main/QQ20260205-225459.png)
+![image](https://raw.githubusercontent.com/haolinawa/Memory-Optimization-For-Java/refs/heads/main/QQ20260205-225509.png)
 
 ## 致谢
 
