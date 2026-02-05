@@ -24,7 +24,7 @@ so easy 你只需要下载仓库内的MOFJ.exe来运行就行了 但是这个程
 
 咱是作者@haolinawa
 
-首先感谢"@gytxtx/@KFACBT（Github）"带来的UI灵感
+首先感谢@gytxtx/@KFACBT（Github）带来的UI灵感
 
 感谢@Colin（精易论坛）提供的内存优化
 
